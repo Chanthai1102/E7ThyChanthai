@@ -1,8 +1,11 @@
+package src;
 class Firsts {
     int x;
+
     public Firsts(int x) {
         this.x = x;
     }
+
     protected void finalize() throws Throwable {
         System.out.println("Welcome to Finalize Keyword in Java Programming " + x);
     }
