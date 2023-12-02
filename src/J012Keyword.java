@@ -1,4 +1,3 @@
-package src;
 class Firsts {
     int x;
 

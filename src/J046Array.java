@@ -1,4 +1,3 @@
-package src;
 import java.util.*;
 public class J046Array {
     public static void main(String args[]) {

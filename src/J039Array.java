@@ -1,4 +1,3 @@
-package src;
 import java.io.*;
 public class J039Array {
     public static void main(String args[]) throws NumberFormatException, IOException {

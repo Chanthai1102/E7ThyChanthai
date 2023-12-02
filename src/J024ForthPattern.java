@@ -1,5 +1,3 @@
-package src;
-
 public class J024ForthPattern {
     public static void main(String args[]) {
         int x, y;

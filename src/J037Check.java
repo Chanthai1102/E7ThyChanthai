@@ -1,4 +1,3 @@
-package src;
 import java.io.*;
 
 public class J037Check {

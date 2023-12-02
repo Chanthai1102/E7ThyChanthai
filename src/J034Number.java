@@ -1,4 +1,3 @@
-package src;
 import java.util.*;
 public class J034Number {
     public static void main(String args[]) {

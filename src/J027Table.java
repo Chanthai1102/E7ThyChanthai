@@ -1,4 +1,3 @@
-package src;
 import java.util.*;
 public class J027Table {
     public static void main(String args[]) {

@@ -1,4 +1,3 @@
-package src;
 import java.util.*;
 public class J048Array {
     public static void sort(int[] x, int lower, int upper) {
